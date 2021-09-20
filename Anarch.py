@@ -30,11 +30,11 @@ elif sys.platform.startswith("freebsd"):
 else:
     os.system('color ' +random.choice(['a', 'b', 'c', 'd'])+ " & cls & title DiseruyukDdos-V1")
 
-password = input("Pasang Password Gblk: ")
-if password == 'Diseruyuk123':
+password = input("Password: ")
+if password == 'Anarch123':
         os.system("cls")
 else :
-	print("[~>] Password Lu Dah Bener Tod")
+	print("[~>] Login Succesfully")
 print("""
 \033[36m
            ;::::; :;
@@ -69,16 +69,16 @@ print("""
 \033[35m                ║\033[32m- - - - - - Methods\033[36m\033[35m GET/POST/HEAD. - - - - - - ║
 \033[35m                ╚════════════════════════════════════════╝
 \033[31m
-@Diseruyuk ════> Coded By Diseruyuk.
+@Anarchy ════> Coded By Anarchy.
   
-@Diseruyuk ════> Jan Leak Yah.
+@Anarchy ════> Aku Sayang Kamu.
 
 \033[0m                   
 """)
 ip = str(input("ip : "))
 port = int(input("Port : "))
 method_attack = str(input("Method (GET,POST,HEAD) : "))
-times = int(input("Packet Nya (BEBAS) : "))
+times = int(input("Packet (BEBAS) : "))
 threads = int(input("Kecepatan kirim (1000) : "))
 fake_ip = '135.125.189.88'
 
