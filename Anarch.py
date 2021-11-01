@@ -18,7 +18,7 @@ acceptall = [
      'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\n',
      'Accept-Encoding: gzip, deflate\r\n'
 ]
-referers = ['Gw_Kentod_Server_Lu_Wkwkwkwk!!']
+referers = ['Tools Ddos!!']
 import random
 import socket
 import threading
@@ -64,9 +64,9 @@ print("""
 \033[35m                ║\033[32m- - - - - - Methods\033[36m\033[35m GET/POST/HEAD. - - - - - - ║
 \033[35m                ╚════════════════════════════════════════╝
 \033[31m
-@Anarchy ════> Coded By Anarchy.
+@Anarchy ════> Coded By Anarchy/Albarry.
   
-@Anarchy ════> Aku Sayang Kamu.
+@Anarchy ════> Jangan Leak Code Yaaa.
 
 \033[0m                   
 """)
